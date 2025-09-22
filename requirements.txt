@@ -1,7 +1,23 @@
 Flask==2.3.3
+Flask-Cors==4.0.0
 pandas==2.0.3
 requests==2.31.0
 beautifulsoup4==4.12.2
 lxml==4.9.3
-weasyprint==60.0
-Pillow==10.0.0
+weasyprint==61.2
+Pillow==9.5.0
+gunicorn==21.2.0
+
+
+
+
+
+# Flask==2.3.3
+# Flask-Cors==4.0.0
+# pandas==2.0.3
+# requests==2.31.0
+# beautifulsoup4==4.12.2
+# lxml==4.9.3
+# weasyprint==61.2
+# Pillow==9.5.0
+# gunicorn==21.2.0
